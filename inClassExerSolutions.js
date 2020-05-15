@@ -25,7 +25,7 @@ let laptop = {
 let phone = {
     operating: "system iOS",
     hasStylus: true,
-    megapixels: 12,
+    megaPixels: 12,
     batteryLife: 24,
 }
 
